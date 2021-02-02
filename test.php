@@ -5,3 +5,5 @@ $a = 1;
 var_dump($a);
 
 echo "Git push";
+
+$x = "test";
