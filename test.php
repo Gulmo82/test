@@ -8,3 +8,5 @@ var_dump($a);
 function ramo (){
   return 1+1;
 }
+
+ramo();
